@@ -1,0 +1,5 @@
+package com.jspiders.webapp;
+
+public class ReadCookiesServlet {
+
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2 style ="background-color:yellow; color:red;" align="center">SERVLET LIFE CYCLE</h2>
+	<details>
+		<summary style="color:blue;" align="center">STAGES OF SLC</summary>
+		<p style ="color:red" align="center">STAGE 1 : LOADING AND INSTIATION</p>
+		<p style ="color:BROWN" align="center">STAGE 2 : INITIALATION</p>
+		<p style ="color:GOLD" align="center">STAGE 3 : SERVICE / REQUEST HANDLING</p>
+		<p style ="color:sky-blue" align="center">STAGE 4 : DESTROY</p>
+		
+	
+	</details>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jspiders.Typ&apos; to &apos;com.jspiders.TYPE4&apos;&#x0D;&#x0A;- Original project: &apos;QSPProject&apos;&#x0D;&#x0A;- Original element: &apos;QSPProject/src/com.jspiders.Typ&apos;&#x0D;&#x0A;- Renamed element: &apos;QSPProject/src/com.jspiders.TYPE4&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jspiders.Typ&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.jspiders.Typ" name="com.jspiders.TYPE4" qualified="false" references="true" stamp="1715659443107" textual="false" version="1.0"/>
+</session>
